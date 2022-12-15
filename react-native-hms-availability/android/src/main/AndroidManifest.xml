@@ -2,5 +2,5 @@
         package="com.huawei.hms.rn.availability">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <application android:usesCleartextTraffic="true"></application>
+    <application android:usesCleartextTraffic="false"></application>
 </manifest>
